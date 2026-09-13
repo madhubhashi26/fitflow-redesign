@@ -93,7 +93,7 @@ fitflow-redesign/
 │   ├── tech-stack.md
 │   └── architecture/
 │       ├── ADR-001.md
-│       └── fitflow-architecture-IT23829756.png
+│       └── fitflow-architecture-IT23833234.png
 ├── .gitignore
 └── README.md
 
