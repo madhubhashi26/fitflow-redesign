@@ -118,6 +118,6 @@ fitflow-redesign/
 
 ## High-Level Architecture
 
-![FitFlow High-Level Architecture](docs/architecture/fitflow-architecture-IT23829756.png)
+![FitFlow High-Level Architecture](docs/architecture/fitflow-architecture-IT23833234.png)
 
 ## Documentation
