@@ -96,3 +96,28 @@ fitflow-redesign/
 │       └── fitflow-architecture-IT23829756.png
 ├── .gitignore
 └── README.md
+
+```
+## High-Level Architecture
+
+![FitFlow High-Level Architecture](docs/architecture/fitflow-architecture-IT23833234.png)
+
+## Documentation
+
+- [Technology Stack](docs/tech-stack.md)
+- [Architecture Decision Record](docs/architecture/ADR-001.md)
+
+## Student Details
+
+- Student ID: IT23833234
+- Module: IT3060 Human Computer Interaction
+- Project: FitFlow Redesign
+- Semester: Semester 2, 2026
+- └── README.md
+```
+
+## High-Level Architecture
+
+![FitFlow High-Level Architecture](docs/architecture/fitflow-architecture-IT23829756.png)
+
+## Documentation
