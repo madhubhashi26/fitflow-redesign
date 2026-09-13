@@ -1,0 +1,28 @@
+name: FitFlow CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  verify-project:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check required files
+        run: |
+          test -f README.md
+          test -f docs/tech-stack.md
+          test -f docs/comparison-matrix.md
+          test -f docs/architecture/ADR-001.md
+          test -f docs/architecture/fitflow-architecture-IT23833234.png
+
+      - name: Confirmation
+        run: echo "FitFlow project structure verified successfully"
