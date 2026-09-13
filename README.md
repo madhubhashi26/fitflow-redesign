@@ -91,6 +91,7 @@ fitflow-redesign/
 ├── ai-service/
 ├── docs/
 │   ├── tech-stack.md
+│   ├── comparison-matrix.md
 │   └── architecture/
 │       ├── ADR-001.md
 │       └── fitflow-architecture-IT23833234.png
@@ -105,6 +106,7 @@ fitflow-redesign/
 ## Documentation
 
 - [Technology Stack](docs/tech-stack.md)
+- [Technology Comparison Matrix](docs/comparison-matrix.md)
 - [Architecture Decision Record](docs/architecture/ADR-001.md)
 
 ## Student Details
